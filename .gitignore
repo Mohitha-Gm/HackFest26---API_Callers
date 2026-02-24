@@ -7,3 +7,4 @@ token.pickle
 *.pyd
 .env.*
 .DS_Store
+credentials.json
